@@ -6,7 +6,7 @@ The assignment involves the creation of a simple Middleware for ASP.NET Core. Pl
 
 **Updated @ Apr'19**
 
-## Simple ASP.NET Core Middlewarei (2-4h)
+## Simple ASP.NET Core Middleware (2-4h)
 
 Create a middleware in a ASP.NET Core that implements the following functionality:
 
